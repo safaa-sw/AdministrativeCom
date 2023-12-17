@@ -1,0 +1,88 @@
+<?php
+
+return [
+
+    'number' => 'رقم المعاملة ',
+    'subject' => 'موضوع المعاملة',
+    'secret_degree' => 'درجة السرية',
+    'importance_degree' => 'درجة الأهمية',
+    'trans_type' => 'نوع المعاملة',
+    'trans_status' => 'حالة المعاملة',
+    'trans_files' => 'المرفقات',
+    'trans_save' => 'حفظ',
+    'close' => 'إغلاق',
+    'trans_user' => 'أنشئت بواسطة',
+    'trans_depart' => ' الإدارة المعنية',
+    'select_choise' => '  --اختر--',
+    'success_message' => 'تمت العملية  بنجاح' ,
+    'error_message' => 'خطأ أثناء التنفيذ، يرجى المحاولة لاحقاً' ,
+    'transaction_show' => ' إطلاع ' ,
+    'transaction_update' => ' تعديل ' ,
+    'transaction_info' => ' معلومات المعاملة ' ,
+    'transaction_connected'=>'المعاملات المرتبطة',
+
+    'transaction_connect' => ' ربط المعاملة ' ,
+    'transaction_connect_type' => ' نوع الربط  ' ,
+    'connect_type1' => 'إلحاق' ,
+    'connect_type2' => 'رد' ,
+    'connect_type3' => 'تابع' ,
+    'transaction_connect_number' => '  رقم المعاملة المطلوب ربطها  ' ,
+    'transaction_disconnect' => ' إلغاء الربط' ,
+
+    'transaction_opinion' => ' إبداء الرأي ' ,
+    'transaction_close' => ' إغلاق المعاملة ' ,
+    'transaction_processed' => ' تمت المعالجة  ' ,
+    'transaction_referr' => ' إحالة المعاملة ' ,
+    'transaction_recieved' => '  استلمت ' ,
+    'transaction_ok' => '  تم ' ,
+    'transaction_referr_to' => ' إحالة المعاملة إلى:' ,
+    'transaction_referr_from' => 'محالة من',
+    'transaction_referr_image' => ' إحالة صورة عن المعاملة إلى:' ,
+    'transaction_referr_base' => ' إحالة أصل المعاملة إلى:' ,
+    'referr_type'=> ' نوع الإحالة ' ,
+    'referr_image'=> ' إحالة صورة ' ,
+    'referr_base'=> ' إحالة أصل ' ,
+
+    'files_add' => ' إضافة مرفق ' ,
+    'transaction_files' => ' المرفقات ' ,
+    'transaction_file_type' =>'نوع الملف',
+    'transaction_file_path' =>'مسار الملف',
+    'transaction_file_show' =>'عرض الملف',
+    'transaction_file_delete' =>'حذف الملف',
+    'transaction_file_user' => 'أضيف بواسطة',
+
+    'notes' => ' ملاحظات ' ,
+    'my_incoming_trans' => ' معاملاتي الواردة ' ,
+    'my_outgoing_trans' => ' معاملاتي الصادرة ' ,
+    'public_type' => '  النوع العام ' ,
+    'private_type' => '  النوع الخاص ' ,
+    'add' => '  إضافة' ,
+    'show' => '   عرض ' ,
+    'update' => '  تعديل  ' ,
+    'incoming' => 'وارد',
+    'outgoing' => 'صادر',
+    'inside' => 'داخلية',
+    'status' => 'الحالة',
+
+
+    ////////////////////////transaction Actions
+    'create'=>'إنشاء',
+    'referr'=>'إحالة',
+    'update'=>'تعديل',
+    'add-file'=>'إضافة مرفق',
+    'update-file'=>'تعديل مرفق',
+    'show'=>'اطلاع',
+    'connect'=>'ربط المعاملة',
+    'give-opinion'=>'إبداء رأي',
+    'close'=>'إغلاق',
+
+
+    ///////////////////////////////////////////
+    'transaction_action' => 'نوع الإجراء',
+    'user_action' => 'نفذ بواسطة',
+    'desc_action' => 'توصيف الإجراء',
+    'date_action' => 'تاريخ الإجراء',
+    'trans_search' => 'بحث',
+    'tracking' => 'المتابعة',
+    
+];
